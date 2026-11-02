@@ -54,3 +54,14 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+## Dag 1 – Git-övning
+
+Under dag 1 har jag lärt mig att:
+
+- Köra en Python-applikation lokalt och testa API:et med Swagger.
+- Skapa en egen Git-branch utan att ändra main.
+- Förstå skillnaden mellan Git commit och Git push.
+- Använda Pull Requests för att föreslå och granska ändringar.
+
+Syftet med övningen är att förstå hur Git och versionshantering bidrar till ett säkrare samarbete i ett utvecklingsteam.
