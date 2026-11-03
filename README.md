@@ -54,3 +54,11 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+## Dag 2 – Praktisk CI-övning
+
+Jag har testat en CI-pipeline i GitHub Actions genom att först köra den med fungerande kod, sedan skapa ett avsiktligt fel och till sist rätta felet.
+
+Jag dokumenterade resultaten, loggarna och felsökningen med skärmbilder.
+
+[Se rapporten från den praktiska CI-övningen](docs/day02-practical/report.md).
