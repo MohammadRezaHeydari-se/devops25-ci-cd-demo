@@ -54,3 +54,7 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+## Dag 2 – CI-demo
+
+Jag testar hur en pull request kan starta automatiska kontroller i GitHub Actions. Pipelinen kör Ruff, Pytest och bygger en Docker-image om testerna lyckas.
