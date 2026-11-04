@@ -58,3 +58,7 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Dag 2 – CI-demo
 
 Jag testar hur en pull request kan starta automatiska kontroller i GitHub Actions. Pipelinen kör Ruff, Pytest och bygger en Docker-image om testerna lyckas.
+
+### Dokumentation – Dag 2
+
+[CI-rapport med logganalys, runners och resultat](docs/day02-ci/report.md)
